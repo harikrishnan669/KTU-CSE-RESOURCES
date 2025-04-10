@@ -1,7 +1,15 @@
 # Table of contents
 
-* [SEMESTERS](README.md)
+* [Page](README.md)
+* [SEMESTERS](<README (1).md>)
+  * [S1](semesters/s1.md)
+  * [S2](semesters/s2.md)
+  * [S3](semesters/s3.md)
+  * [S4](semesters/s4.md)
+  * [S5](semesters/s5.md)
   * [S6](semesters/s6/README.md)
     * [CD](semesters/s6/cd.md)
     * [CGIP](semesters/s6/cgip.md)
     * [AAD](semesters/s6/aad.md)
+  * [S7](semesters/s7.md)
+  * [S8](semesters/s8.md)
