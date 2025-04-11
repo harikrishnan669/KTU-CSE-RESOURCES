@@ -9,7 +9,7 @@ description: >-
 
 ### 📚 Semester 8 Curriculum
 
-1. **Distributed Computing** -Focuses on the principles and practices of distributed systems, covering topics such as distributed algorithms, synchronization, fault tolerance, and real-world applications
+1. **Distributed Computing** -Focuses on the principles and practices of distributed systems, covering topics such as distributed algorithms, synchronization, fault tolerance, and real-world applications.
 2. **Program Elective III** (Choose one):
    * **Deep Learning**
      * Explores neural networks and deep learning architectures, emphasizing their applications in areas like image and speech recognition.
@@ -38,6 +38,6 @@ description: >-
      * Focuses on the design and implementation of client-server systems and applications.
    * **Formal Methods and Tools**
      * Covers mathematically-based techniques for the specification, development, and verification of software and hardware systems.
-4. **Project Phase II** -Continuation and completion of the capstone project initiated in Semester 7, emphasizing implementation, testing, and documentation
-5. **Comprehensive Viva** -An oral examination assessing the student's understanding and knowledge accumulated throughout the B.Tech program
+4. **Project Phase II** -Continuation and completion of the capstone project initiated in Semester 7, emphasizing implementation, testing, and documentation.
+5. **Comprehensive Viva** -An oral examination assessing the student's understanding and knowledge accumulated throughout the B.Tech program.
 

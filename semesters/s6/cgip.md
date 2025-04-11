@@ -1,8 +1,8 @@
 ---
-description: CST302 - Compiler Design
+description: CST304 - Computer Graphics And Image Processing
 ---
 
-# CGIP
+# Computer Graphics And Image Processing
 
 <details>
 

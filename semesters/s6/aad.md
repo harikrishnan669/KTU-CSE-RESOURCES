@@ -1,8 +1,8 @@
 ---
-description: CST302 - Compiler Design
+description: CST306 - Algorithm Analysis And Design
 ---
 
-# AAD
+# Algorithm Analysis And Design
 
 <details>
 

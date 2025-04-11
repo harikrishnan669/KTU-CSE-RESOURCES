@@ -9,8 +9,8 @@ description: >-
 
 ### 📚 Semester 7 Curriculum
 
-1. **Artificial Intelligence** -Explores the foundational concepts and techniques of artificial intelligence, including search algorithms, knowledge representation, reasoning, and machine learning
-2. **Industrial Safety Engineering** -Focuses on principles and practices to ensure safety in industrial environments, covering hazard identification, risk assessment, and safety management systems
+1. **Artificial Intelligence** -Explores the foundational concepts and techniques of artificial intelligence, including search algorithms, knowledge representation, reasoning, and machine learning.
+2. **Industrial Safety Engineering** -Focuses on principles and practices to ensure safety in industrial environments, covering hazard identification, risk assessment, and safety management systems.
 3. **Program Elective II** (Choose one):
    * **Machine Learning**
      * Delves into algorithms and methodologies that enable computers to learn from data and make predictions or decisions.
