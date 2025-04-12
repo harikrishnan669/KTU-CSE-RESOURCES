@@ -10,7 +10,7 @@ description: CST302 - Compiler Design
 
 <summary>Syllabus</summary>
 
-[https://drive.google.com/file/d/15KnL9xlLdTJ5jxESHJ\_78DI9hKYaGMfg/view](https://drive.google.com/file/d/15KnL9xlLdTJ5jxESHJ_78DI9hKYaGMfg/view)
+\[CST 302 SYLLABUS] ([https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view](https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view))
 
 </details>
 
