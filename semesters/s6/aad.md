@@ -8,7 +8,7 @@ description: CST306 - Algorithm Analysis And Design
 
 <summary>Syllabus</summary>
 
-[https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view](https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view)
+[CST 306](https://drive.google.com/file/d/1LR86OhRV5Ro7uItDxil5g4XGeXuRSMMZ/view)
 
 </details>
 
@@ -16,7 +16,7 @@ description: CST306 - Algorithm Analysis And Design
 
 <summary>Notes</summary>
 
-
+[Notes](https://drive.google.com/drive/folders/1QntBPDtrHFj-MQFRQgC80yuU1b1-5oUP)
 
 </details>
 
@@ -24,6 +24,6 @@ description: CST306 - Algorithm Analysis And Design
 
 <summary>Question Papers</summary>
 
-
+[Previous year QP](https://drive.google.com/drive/folders/1nEuMUBjlzUDNdB2cRttqVYj7Rsytr-VP)
 
 </details>

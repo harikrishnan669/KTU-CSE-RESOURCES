@@ -10,7 +10,7 @@ description: CST302 - Compiler Design
 
 <summary>Syllabus</summary>
 
-\[CST 302 SYLLABUS] ([https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view](https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view))
+[CST302](https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view)
 
 </details>
 
@@ -18,7 +18,7 @@ description: CST302 - Compiler Design
 
 <summary>Notes</summary>
 
-
+[Notes](https://drive.google.com/drive/folders/1zJWaQQy1mcNvWS6TQLITahQ3Bfi0UYQp)
 
 </details>
 
@@ -26,6 +26,6 @@ description: CST302 - Compiler Design
 
 <summary>Question Papers</summary>
 
-
+[Previous year QP](https://drive.google.com/drive/folders/1nOQXoADkgM7mbmTue7CAodFDOagjXSIT)
 
 </details>

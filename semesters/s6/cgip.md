@@ -8,7 +8,7 @@ description: CST304 - Computer Graphics And Image Processing
 
 <summary>Syllabus</summary>
 
-[https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view](https://drive.google.com/file/d/1e9Qw3OBd-6J6HNeG4o5Su8IemiUa3-4w/view)
+[CST 304](https://drive.google.com/file/d/1CGFUrB1vXHnznkOy2ksgj9Ic7NHG5FnG/view)
 
 </details>
 
@@ -16,7 +16,7 @@ description: CST304 - Computer Graphics And Image Processing
 
 <summary>Notes</summary>
 
-
+[Notes](https://drive.google.com/drive/folders/1ZnHLBuLK8XYUhrKU3gTwUVvGFFCTMmyk)
 
 </details>
 
@@ -24,6 +24,6 @@ description: CST304 - Computer Graphics And Image Processing
 
 <summary>Question Papers</summary>
 
-
+[Previous year QP](https://drive.google.com/drive/folders/1nWha9ftxEWTSFjZ_igXljxldOBcNt27B)
 
 </details>
