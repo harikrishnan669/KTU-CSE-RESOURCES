@@ -8,6 +8,6 @@ description: CST301 - Formal Languages and Automata Theory
 
 <summary>Syllabus</summary>
 
-[Reference 1](https://drive.google.com/file/d/1qCeMui1Ks3JjfXhZIzfzlvuqO8OAzbYf/view)
+[CST301](https://drive.google.com/file/d/1qCeMui1Ks3JjfXhZIzfzlvuqO8OAzbYf/view)
 
 </details>
