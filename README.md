@@ -1,7 +1,3 @@
----
-description: COMPUTER SCIENCE AND ENGINEERING
----
-
 # BTECH CSE 2019 SCHEME
 
 Here's a complete overview of the **B.Tech in Computer Science and Engineering (CSE)** program under **APJ Abdul Kalam Technological University (KTU), Kerala**:
