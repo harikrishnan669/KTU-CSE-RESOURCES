@@ -1,6 +1,7 @@
 # Table of contents
 
-* [BTECH CSE 2019 SCHEME](README.md)
+* [Welcome](README.md)
+* [BTECH CSE 2019 SCHEME](<README (1).md>)
   * [SEMESTERS](readme/semesters/README.md)
     * [S1 & S2](readme/semesters/s1/README.md)
       * [Overview](readme/semesters/s1/overview.md)
