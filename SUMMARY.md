@@ -60,3 +60,4 @@
     * [S8](readme/semesters/s8/README.md)
       * [Distributed Computing](readme/semesters/s8/distributed-computing.md)
       * [Page 2](readme/semesters/s8/page-2.md)
+* [BTECH CSE 2024 SCHEME](btech-cse-2024-scheme.md)
