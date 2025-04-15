@@ -61,7 +61,6 @@ By the end of the course, students will be skilled in:
 
 * **Mini Project (6th Semester)** – Small team-based application or research work
 * **Major Project (7th & 8th Semesters)** – Final year project based on real-world applications or research
-* **Internship** – Typically in 6th or 7th semester; mandatory for credits
 
 ***
 
