@@ -2,7 +2,9 @@
 
 Here's a complete overview of the **B.Tech in Computer Science and Engineering (CSE)** program under **APJ Abdul Kalam Technological University (KTU), Kerala**:
 
-***
+{% content-ref url="readme/semesters/" %}
+[semesters](readme/semesters/)
+{% endcontent-ref %}
 
 ### 🎓 Overview of B.Tech CSE @ KTU
 

@@ -7,6 +7,10 @@ description: >-
 
 # S8
 
+{% content-ref url="distributed-computing.md" %}
+[distributed-computing.md](distributed-computing.md)
+{% endcontent-ref %}
+
 ### 📚 Semester 8 Curriculum
 
 1. **Distributed Computing** -Focuses on the principles and practices of distributed systems, covering topics such as distributed algorithms, synchronization, fault tolerance, and real-world applications.

@@ -7,6 +7,38 @@ description: >-
 
 # S4
 
+{% content-ref url="graph-theory.md" %}
+[graph-theory.md](graph-theory.md)
+{% endcontent-ref %}
+
+{% content-ref url="computer-organisation-and-architecture.md" %}
+[computer-organisation-and-architecture.md](computer-organisation-and-architecture.md)
+{% endcontent-ref %}
+
+{% content-ref url="database-management-systems.md" %}
+[database-management-systems.md](database-management-systems.md)
+{% endcontent-ref %}
+
+{% content-ref url="operating-systems.md" %}
+[operating-systems.md](operating-systems.md)
+{% endcontent-ref %}
+
+{% content-ref url="professional-ethics.md" %}
+[professional-ethics.md](professional-ethics.md)
+{% endcontent-ref %}
+
+{% content-ref url="constitution-of-india.md" %}
+[constitution-of-india.md](constitution-of-india.md)
+{% endcontent-ref %}
+
+{% content-ref url="digital-lab.md" %}
+[digital-lab.md](digital-lab.md)
+{% endcontent-ref %}
+
+{% content-ref url="operating-systems-lab.md" %}
+[operating-systems-lab.md](operating-systems-lab.md)
+{% endcontent-ref %}
+
 ### 📚 Semester 4 Curriculum
 
 1. **Graph Theory (MAT 206)** -Explores fundamental concepts in graph theory, including graph representations, traversals, connectivity, and applications in computer science.

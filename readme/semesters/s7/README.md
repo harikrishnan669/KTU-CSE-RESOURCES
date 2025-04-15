@@ -7,6 +7,26 @@ description: >-
 
 # S7
 
+{% content-ref url="artificial-intelligence.md" %}
+[artificial-intelligence.md](artificial-intelligence.md)
+{% endcontent-ref %}
+
+{% content-ref url="industrial-safety-engineering.md" %}
+[industrial-safety-engineering.md](industrial-safety-engineering.md)
+{% endcontent-ref %}
+
+{% content-ref url="seminar.md" %}
+[seminar.md](seminar.md)
+{% endcontent-ref %}
+
+{% content-ref url="compiler-lab.md" %}
+[compiler-lab.md](compiler-lab.md)
+{% endcontent-ref %}
+
+{% content-ref url="project-phase-1.md" %}
+[project-phase-1.md](project-phase-1.md)
+{% endcontent-ref %}
+
 ### 📚 Semester 7 Curriculum
 
 1. **Artificial Intelligence** -Explores the foundational concepts and techniques of artificial intelligence, including search algorithms, knowledge representation, reasoning, and machine learning.

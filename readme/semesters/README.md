@@ -1,5 +1,33 @@
 # SEMESTERS
 
+{% content-ref url="s1/" %}
+[s1](s1/)
+{% endcontent-ref %}
+
+{% content-ref url="s3/" %}
+[s3](s3/)
+{% endcontent-ref %}
+
+{% content-ref url="s4/" %}
+[s4](s4/)
+{% endcontent-ref %}
+
+{% content-ref url="s5/" %}
+[s5](s5/)
+{% endcontent-ref %}
+
+{% content-ref url="s6/" %}
+[s6](s6/)
+{% endcontent-ref %}
+
+{% content-ref url="s7/" %}
+[s7](s7/)
+{% endcontent-ref %}
+
+{% content-ref url="s8/" %}
+[s8](s8/)
+{% endcontent-ref %}
+
 ### 📚 Semester-wise Curriculum (Outline)
 
 > Note: Curriculum may vary slightly over the years or per institution, but this is the general structure.

@@ -6,6 +6,50 @@ description: >-
 
 # S1 & S2
 
+{% content-ref url="chemistry.md" %}
+[chemistry.md](chemistry.md)
+{% endcontent-ref %}
+
+{% content-ref url="physics.md" %}
+[physics.md](physics.md)
+{% endcontent-ref %}
+
+{% content-ref url="linear-algebra-and-calculas.md" %}
+[linear-algebra-and-calculas.md](linear-algebra-and-calculas.md)
+{% endcontent-ref %}
+
+{% content-ref url="vector-calculus-differential-equations-and-transforms.md" %}
+[vector-calculus-differential-equations-and-transforms.md](vector-calculus-differential-equations-and-transforms.md)
+{% endcontent-ref %}
+
+{% content-ref url="basics-of-civil-and-mechanical-engineering.md" %}
+[basics-of-civil-and-mechanical-engineering.md](basics-of-civil-and-mechanical-engineering.md)
+{% endcontent-ref %}
+
+{% content-ref url="basics-of-electrical-and-electronics-engineering.md" %}
+[basics-of-electrical-and-electronics-engineering.md](basics-of-electrical-and-electronics-engineering.md)
+{% endcontent-ref %}
+
+{% content-ref url="engineering-graphics.md" %}
+[engineering-graphics.md](engineering-graphics.md)
+{% endcontent-ref %}
+
+{% content-ref url="engineering-mechanics.md" %}
+[engineering-mechanics.md](engineering-mechanics.md)
+{% endcontent-ref %}
+
+{% content-ref url="programming-in-c.md" %}
+[programming-in-c.md](programming-in-c.md)
+{% endcontent-ref %}
+
+{% content-ref url="life-skills.md" %}
+[life-skills.md](life-skills.md)
+{% endcontent-ref %}
+
+{% content-ref url="professional-communication.md" %}
+[professional-communication.md](professional-communication.md)
+{% endcontent-ref %}
+
 ### 📚 Semester 1 Curriculum
 
 1. **Linear Algebra and Calculus** -Fundamental mathematical concepts including matrices, determinants, eigenvalues, eigenvectors, and calculus techniques.

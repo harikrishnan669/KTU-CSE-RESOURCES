@@ -7,6 +7,38 @@ description: >-
 
 # S3
 
+{% content-ref url="data-structures.md" %}
+[data-structures.md](data-structures.md)
+{% endcontent-ref %}
+
+{% content-ref url="data-structures-lab.md" %}
+[data-structures-lab.md](data-structures-lab.md)
+{% endcontent-ref %}
+
+{% content-ref url="design-and-engineering.md" %}
+[design-and-engineering.md](design-and-engineering.md)
+{% endcontent-ref %}
+
+{% content-ref url="discrete-mathematical-structures.md" %}
+[discrete-mathematical-structures.md](discrete-mathematical-structures.md)
+{% endcontent-ref %}
+
+{% content-ref url="object-oriented-programming-using-java.md" %}
+[object-oriented-programming-using-java.md](object-oriented-programming-using-java.md)
+{% endcontent-ref %}
+
+{% content-ref url="object-oriented-programming-lab-in-java.md" %}
+[object-oriented-programming-lab-in-java.md](object-oriented-programming-lab-in-java.md)
+{% endcontent-ref %}
+
+{% content-ref url="logic-system-design.md" %}
+[logic-system-design.md](logic-system-design.md)
+{% endcontent-ref %}
+
+{% content-ref url="sustainable-engineering.md" %}
+[sustainable-engineering.md](sustainable-engineering.md)
+{% endcontent-ref %}
+
 ### 📚 Semester 3 Curriculum
 
 1. **Discrete Mathematical Structures (MAT 203)** -Focuses on fundamental mathematical concepts such as sets, relations, functions, graph theory, and combinatorics, which are essential for computer science applications.

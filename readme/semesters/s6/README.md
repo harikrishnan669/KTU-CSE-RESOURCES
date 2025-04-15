@@ -7,6 +7,38 @@ description: >-
 
 # S6
 
+{% content-ref url="cd.md" %}
+[cd.md](cd.md)
+{% endcontent-ref %}
+
+{% content-ref url="cgip.md" %}
+[cgip.md](cgip.md)
+{% endcontent-ref %}
+
+{% content-ref url="aad.md" %}
+[aad.md](aad.md)
+{% endcontent-ref %}
+
+{% content-ref url="programming-in-python.md" %}
+[programming-in-python.md](programming-in-python.md)
+{% endcontent-ref %}
+
+{% content-ref url="industrial-economics-and-foreign-trade.md" %}
+[industrial-economics-and-foreign-trade.md](industrial-economics-and-foreign-trade.md)
+{% endcontent-ref %}
+
+{% content-ref url="comprehensive-course-work.md" %}
+[comprehensive-course-work.md](comprehensive-course-work.md)
+{% endcontent-ref %}
+
+{% content-ref url="networking-lab.md" %}
+[networking-lab.md](networking-lab.md)
+{% endcontent-ref %}
+
+{% content-ref url="mini-project.md" %}
+[mini-project.md](mini-project.md)
+{% endcontent-ref %}
+
 ### 📚 Semester 6 Curriculum
 
 1. **Compiler Design** -Focuses on the principles and techniques involved in designing and implementing compilers, including lexical analysis, syntax analysis, semantic analysis, optimization, and code generation.

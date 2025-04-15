@@ -7,6 +7,38 @@ description: >-
 
 # S5
 
+{% content-ref url="formal-languages-and-automata-theory.md" %}
+[formal-languages-and-automata-theory.md](formal-languages-and-automata-theory.md)
+{% endcontent-ref %}
+
+{% content-ref url="computer-networks.md" %}
+[computer-networks.md](computer-networks.md)
+{% endcontent-ref %}
+
+{% content-ref url="system-software.md" %}
+[system-software.md](system-software.md)
+{% endcontent-ref %}
+
+{% content-ref url="microprocessors-and-microcontrollers.md" %}
+[microprocessors-and-microcontrollers.md](microprocessors-and-microcontrollers.md)
+{% endcontent-ref %}
+
+{% content-ref url="management-of-software-systems.md" %}
+[management-of-software-systems.md](management-of-software-systems.md)
+{% endcontent-ref %}
+
+{% content-ref url="disaster-management.md" %}
+[disaster-management.md](disaster-management.md)
+{% endcontent-ref %}
+
+{% content-ref url="system-software-and-microprocessors-lab.md" %}
+[system-software-and-microprocessors-lab.md](system-software-and-microprocessors-lab.md)
+{% endcontent-ref %}
+
+{% content-ref url="database-management-systems-lab.md" %}
+[database-management-systems-lab.md](database-management-systems-lab.md)
+{% endcontent-ref %}
+
 ### 📚 Semester 5 Curriculum
 
 1. **Formal Languages and Automata Theory (CST 301)** -Explores the theoretical foundations of computer science, including formal languages, grammars, automata, and the limits of computational capabilities.
