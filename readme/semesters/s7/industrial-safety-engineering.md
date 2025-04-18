@@ -24,6 +24,6 @@ description: MCN401 - Industrial Safety Engineering
 
 <summary>Question papers</summary>
 
-
+[Question papers](https://drive.google.com/drive/folders/1OLWWx8Oycc-E2iyC_pDpZR-s_w8NGXoh)
 
 </details>
